@@ -1,0 +1,14 @@
+{
+  "name": "fast-dependencies-analyzer-plugin",
+  "version": "1.0.0",
+  "repository": "https://github.com/tanlg/fast-dependencies-analyzer-plugin.git",
+  "author": "LongguangTan <tanlongguang@mokahr.com>",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.6"
+  },
+  "devDependencies": {
+    "@types/glob": "^7.1.1",
+    "@types/node": "^13.1.0"
+  }
+}

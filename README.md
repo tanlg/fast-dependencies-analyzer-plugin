@@ -1,0 +1,3 @@
+# fast-dependencies-analyzer-plugin
+
+-----
